@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Ardu.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="CodingL.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="EmbSyst.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ExtrasCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="FPGAsRe.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Home.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="LangCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="WorkexpCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EduCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="OtherCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="ContactCD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

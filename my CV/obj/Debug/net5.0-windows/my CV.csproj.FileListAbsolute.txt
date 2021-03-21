@@ -1,0 +1,36 @@
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\bin\Debug\net5.0-windows\my CV.exe
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\bin\Debug\net5.0-windows\my CV.deps.json
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\bin\Debug\net5.0-windows\my CV.runtimeconfig.json
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\bin\Debug\net5.0-windows\my CV.runtimeconfig.dev.json
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\bin\Debug\net5.0-windows\my CV.dll
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\bin\Debug\net5.0-windows\ref\my CV.dll
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\bin\Debug\net5.0-windows\my CV.pdb
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\bin\Debug\net5.0-windows\aa\my CV.resources.dll
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\bin\Debug\net5.0-windows\en-US\my CV.resources.dll
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.Form1.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.Properties.Resources.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.Form1.aa.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.Form1.en-US.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my CV.csproj.GenerateResource.cache
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my CV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my CV.AssemblyInfoInputs.cache
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my CV.AssemblyInfo.cs
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my CV.csproj.CoreCompileInputs.cache
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\aa\my CV.resources.dll
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\en-US\my CV.resources.dll
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my CV.dll
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\ref\my CV.dll
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my CV.pdb
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my CV.genruntimeconfig.cache
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my CV.csprojAssemblyReference.cache
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.ContactCD.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.EduCD.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.OtherCD.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.WorkexpCD.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.Home.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.CodingL.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.EmbSyst.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.Ardu.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.FPGAsRe.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.ExtrasCD.resources
+C:\Users\Vagelis Kr\source\repos\my CV\my CV\obj\Debug\net5.0-windows\my_CV.LangCD.resources
