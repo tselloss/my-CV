@@ -8,19 +8,24 @@
     "net5.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vagelis Kr\\.nuget\\packages\\": {}
+    "C:\\Users\\karac\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vagelis Kr\\source\\repos\\my CV\\my CV\\my CV.csproj",
+      "projectUniqueName": "C:\\Users\\karac\\OneDrive\\Documents\\GitHub\\my-CV\\my CV\\my CV.csproj",
       "projectName": "my CV",
-      "projectPath": "C:\\Users\\Vagelis Kr\\source\\repos\\my CV\\my CV\\my CV.csproj",
-      "packagesPath": "C:\\Users\\Vagelis Kr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vagelis Kr\\source\\repos\\my CV\\my CV\\obj\\",
+      "projectPath": "C:\\Users\\karac\\OneDrive\\Documents\\GitHub\\my-CV\\my CV\\my CV.csproj",
+      "packagesPath": "C:\\Users\\karac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\karac\\OneDrive\\Documents\\GitHub\\my-CV\\my CV\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Vagelis Kr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\karac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
